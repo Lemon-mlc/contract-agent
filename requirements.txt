@@ -1,0 +1,10 @@
+langchain==0.2.16
+langchain-community
+chromadb
+sentence-transformers
+ollama
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
